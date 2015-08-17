@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values-bn/values-bn.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="advance">পরবর্তী স্ক্রিন\n-এ যেতে।</string>
+    <string name="anotherMember">অন্য সদস্য  </string>
+    <string name="app_name">mPowerClienCollection</string>
+    <string name="app_url">http://mpower-social.com</string>
+    <string name="baby_module_bn">শিশুর তথ্য মডিউল </string>
+    <string name="backup">পূর্বের স্ক্রিন\n-এ যেতে।</string>
+    <string name="click_to_web">Tap to visit http://mpower-social.com</string>
+    <string name="default_server_url">http://115.127.27.4:6845</string>
+    <string name="default_splash_path">mIntel Default</string>
+    <string name="delete">Delete</string>
+    <string name="delete_bn">ফর্ম ডিলিট </string>
+    <string name="download_form">Download Form</string>
+    <string name="download_form_bn">ফর্ম ডাউনলোড</string>
+    <string name="edit_information_bn">তথ্য পরিবর্তন</string>
+    <string name="enter_data">Fill Blank Form</string>
+    <string name="enter_data_description"> আপনি \"%s\". ফর্মটি শুরু করতে যাচ্ছেন। নিচের ছবির মত করে আঙ্গুল দিয়ে স্ক্রিনটি সরিয়ে নিন। </string>
+    <string name="epi_module">Get Data</string>
+    <string name="error_posting_confirmed_list">error posting confirmed list</string>
+    <string name="general_preferences">Change Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="hhid">HHID</string>
+    <string name="invalid_http_status_">"Invalid http status: "</string>
+    <string name="logging_in_">Logging in</string>
+    <string name="login_failed_">Login failed</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="main_menu_message">mPowerClienCollection \n</string>
+    <string name="make_schedule_bn">ভিজিট শিডিউল</string>
+    <string name="mark_finished">ফর্মটিকে চূড়ান্ত হিসাবে চিহ্নিত করুন।</string>
+    <string name="memberID">সদস্যের ID</string>
+    <string name="memberName">সদস্যের নাম </string>
+    <string name="mother_module_bn">মায়ের তথ্য মডিউল </string>
+    <string name="ok">Ok</string>
+    <string name="please_enter_password">Please enter </string>
+    <string name="please_enter_worker_id">Please enter user id</string>
+    <string name="please_wait">Please wait a few moments.</string>
+    <string name="possible_causes_">Posible causes</string>
+    <string name="quit_entry">ফর্মটি সেভ করে বের হয়ে আসুন।</string>
+    <string name="registration_bn">রেজিস্ট্রেশন মডিউল </string>
+    <string name="required_answer_error">দুঃখিত, এই উত্তরটি দেওয়া আবশ্যক।</string>
+    <string name="review_data">Review Data</string>
+    <string name="review_data_bn">তথ্য পরিবর্তন</string>
+    <string name="save_enter_data_description">আপনি \"%s\" -এর শেষ প্রান্তে। </string>
+    <string name="save_form_as">এই ফর্মটির নাম দিন:</string>
+    <string name="search_uid">Searching</string>
+    <string name="send_data">Send Data</string>
+    <string name="send_data_bn">সেন্ট ডাটা</string>
+    <string name="server_preferences">Server</string>
+    <string name="settings">Settings</string>
+    <string name="swipe_instructions">আপনি %s ফর্মটি শুরু করতে যাচ্ছেন। নিচের ছবির মত করে আঙ্গুল দিয়ে স্ক্রিনটি সরিয়ে নিন।</string>
+    <string name="timeout">30</string>
+    <string name="url">https://www.mivita_plus.com</string>
+    <string name="url_error">Sorry, invalid URL!</string>
+    <string name="vaccine_module_bn">টিকার তথ্য মডিউল </string>
+    <string name="you_need_to_login_again_">You need to login again</string>
+</resources>

@@ -1,0 +1,505 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:2:1
+	package
+		ADDED from AndroidManifest.xml:3:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:6:5
+	xmlns:tools
+		ADDED from AndroidManifest.xml:4:5
+	android:versionCode
+		ADDED from AndroidManifest.xml:5:5
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	xmlns:android
+		ADDED from AndroidManifest.xml:2:11
+uses-sdk
+ADDED from AndroidManifest.xml:8:5
+MERGED from msurvey_latest:mPowerClientCollection:unspecified:7:5
+MERGED from msurvey_latest:actionbarsherlock_prev:unspecified:7:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:10:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:9:9
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+application
+ADDED from AndroidManifest.xml:12:5
+MERGED from msurvey_latest:mPowerClientCollection:unspecified:54:5
+MERGED from msurvey_latest:actionbarsherlock_prev:unspecified:11:5
+	android:label
+		ADDED from AndroidManifest.xml:16:9
+		REJECTED from msurvey_latest:mPowerClientCollection:unspecified:57:9
+	android:allowBackup
+		ADDED from AndroidManifest.xml:15:9
+	android:icon
+		ADDED from AndroidManifest.xml:17:9
+		REJECTED from msurvey_latest:mPowerClientCollection:unspecified:56:9
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:58:9
+	tools:replace
+		ADDED from AndroidManifest.xml:13:9
+	android:name
+		ADDED from AndroidManifest.xml:14:9
+activity#com.mpower.android.msurvey.activity.MainActivity
+ADDED from AndroidManifest.xml:19:9
+	android:name
+		ADDED from AndroidManifest.xml:20:13
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:21:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:22:17
+	android:name
+		ADDED from AndroidManifest.xml:22:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:24:17
+	android:name
+		ADDED from AndroidManifest.xml:24:27
+activity#com.mpower.android.msurvey.activity.SettingActivity
+ADDED from AndroidManifest.xml:28:9
+	android:name
+		ADDED from AndroidManifest.xml:29:13
+intent-filter#android.intent.action.mpower.msurvey.setting+android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:31:13
+action#android.intent.action.mpower.msurvey.setting
+ADDED from AndroidManifest.xml:32:14
+	android:name
+		ADDED from AndroidManifest.xml:32:22
+category#android.intent.category.DEFAULT
+ADDED from AndroidManifest.xml:33:15
+	android:name
+		ADDED from AndroidManifest.xml:33:25
+uses-feature#android.hardware.location
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:11:5
+	android:required
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:13:9
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:12:9
+uses-feature#android.hardware.location.network
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:14:5
+	android:required
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:16:9
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:15:9
+uses-feature#android.hardware.location.gps
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:17:5
+	android:required
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:19:9
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:18:9
+uses-feature#android.hardware.telephony
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:20:5
+	android:required
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:22:9
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:21:9
+uses-feature#android.hardware.wifi
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:23:5
+	android:required
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:25:9
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:24:9
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:27:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:27:22
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:28:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:28:22
+uses-permission#android.permission.INTERNET
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:29:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:29:22
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:30:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:30:22
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:31:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:31:22
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:32:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:32:22
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:33:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:33:22
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:34:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:34:22
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:35:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:35:22
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:36:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:36:22
+supports-screens
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:38:5
+	android:largeScreens
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:40:9
+	android:smallScreens
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:43:9
+	android:normalScreens
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:41:9
+	android:xlargeScreens
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:44:9
+	android:resizeable
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:42:9
+	android:anyDensity
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:39:9
+permission#org.opendatakit.tables.permission.MAPS_RECEIVE
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:46:5
+	android:protectionLevel
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:48:9
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:47:9
+uses-permission#org.opendatakit.tables.permission.MAPS_RECEIVE
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:50:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:50:22
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:51:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:51:22
+uses-permission#android.permission.WAKE_LOCK
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:52:5
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:52:22
+provider#com.mpower.clientcollection.provider.FormsProvider
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:59:9
+	android:authorities
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:61:13
+	android:exported
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:62:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:60:13
+provider#com.mpower.clientcollection.provider.InstanceProvider
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:63:9
+	android:authorities
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:65:13
+	android:exported
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:66:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:64:13
+activity#com.mpower.clientcollection.activities.FormEntryActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:68:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:72:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:71:13
+	android:windowSoftInputMode
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:74:13
+	android:configChanges
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:70:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:73:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:69:13
+intent-filter#android.intent.action.EDIT+android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:75:13
+action#android.intent.action.VIEW
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:76:17
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:76:25
+action#android.intent.action.EDIT
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:77:17
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:77:25
+data
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:82:17
+	android:mimeType
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:82:23
+activity#com.mpower.clientcollection.activities.FormHierarchyActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:85:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:89:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:88:13
+	android:configChanges
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:87:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:90:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:86:13
+activity#com.mpower.clientcollection.activities.DrawActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:91:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:94:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:93:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:95:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:92:13
+activity#com.mpower.clientcollection.activities.InstanceChooserList
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:96:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:99:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:98:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:100:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:97:13
+activity#com.mpower.clientcollection.activities.InstanceChooserTabs
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:110:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:113:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:112:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:114:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:111:13
+activity#com.mpower.clientcollection.activities.FormChooserList
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:115:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:118:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:117:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:119:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:116:13
+intent-filter#android.intent.action.EDIT+android.intent.action.PICK+android.intent.action.VIEW+android.intent.category.DEFAULT
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:120:13
+action#android.intent.action.PICK
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:123:17
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:123:25
+activity#com.mpower.clientcollection.activities.FormManagerList
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:131:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:134:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:133:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:135:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:132:13
+activity#com.mpower.clientcollection.activities.FormDownloadList
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:136:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:139:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:138:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:140:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:137:13
+activity#com.mpower.clientcollection.activities.DataManagerList
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:141:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:144:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:143:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:145:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:142:13
+activity#com.mpower.clientcollection.activities.FileManagerTabs
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:146:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:149:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:148:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:150:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:147:13
+activity#com.mpower.clientcollection.activities.InstanceUploaderList
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:151:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:154:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:153:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:155:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:152:13
+activity#com.mpower.clientcollection.activities.InstanceUploaderActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:163:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:166:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:165:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:167:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:164:13
+activity#com.mpower.clientcollection.preferences.PreferencesActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:168:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:171:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:170:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:172:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:169:13
+activity#com.mpower.clientcollection.preferences.AdminPreferencesActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:173:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:176:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:175:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:177:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:174:13
+activity#com.mpower.clientcollection.activities.GeoPointActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:178:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:181:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:180:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:182:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:179:13
+activity#com.mpower.clientcollection.activities.GeoPointMapActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:183:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:186:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:185:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:187:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:184:13
+activity#com.mpower.clientcollection.activities.GeoPointMapActivitySdk7
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:188:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:191:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:190:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:192:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:189:13
+activity#com.mpower.clientcollection.activities.SplashScreenActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:193:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:196:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:195:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:197:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:194:13
+activity#com.mpower.clientcollection.activities.BearingActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:198:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:201:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:200:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:202:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:199:13
+activity#com.mpower.clientcollection.activities.AndroidShortcuts
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:204:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:207:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:206:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:208:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:205:13
+intent-filter#android.intent.action.CREATE_SHORTCUT+android.intent.category.DEFAULT
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:209:13
+action#android.intent.action.CREATE_SHORTCUT
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:210:17
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:210:25
+activity#com.mpower.clientcollection.activities.MsgDetailActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:215:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:218:13
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:217:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:219:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:216:13
+receiver#com.mpower.clientcollection.receivers.NetworkReceiver
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:221:9
+	android:enabled
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:223:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:222:13
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:224:13
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:225:17
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:225:25
+intent-filter#com.mpower.clientcollection.FormSaved
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:227:13
+action#com.mpower.clientcollection.FormSaved
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:228:17
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:228:25
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:232:9
+	android:value
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:234:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:233:13
+uses-library#com.google.android.maps
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:236:9
+	android:required
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:238:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:237:13
+activity#com.mpower.clientcollection.activities.DownloadAssetsFileActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:240:9
+	android:label
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:242:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:243:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:241:13
+activity#com.mpower.clientcollection.activities.ClientCollectionLoginActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:245:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:247:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:248:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:246:13
+activity#com.mpower.clientcollection.activities.ClientCollectionMainActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:249:9
+	android:screenOrientation
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:251:13
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:252:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:250:13
+service#com.mpower.clientcollection.services.PushService
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:254:9
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:254:18
+service#com.mpower.clientcollection.services.SyncNotificationWithServer
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:255:9
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:255:18
+activity#com.mpower.clientcollection.activities.WebServiceActivity
+ADDED from msurvey_latest:mPowerClientCollection:unspecified:257:9
+	android:theme
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:259:13
+	android:name
+		ADDED from msurvey_latest:mPowerClientCollection:unspecified:258:13
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from AndroidManifest.xml:2:1 reason: com.mpower.clientcollection.activity requested WRITE_EXTERNAL_STORAGE

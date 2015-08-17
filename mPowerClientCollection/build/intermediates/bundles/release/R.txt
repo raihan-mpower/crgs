@@ -518,13 +518,13 @@ int id default_completed 0x7f0d00b4
 int id default_to_finalized 0x7f0d00a6
 int id delete_button 0x7f0d0040
 int id delete_saved 0x7f0d009b
-int id deleteform 0x7f0d003b
+int id deleteform 0x7f0d003c
 int id description 0x7f0d004f
 int id detail_msg_date 0x7f0d0043
 int id detail_msg_sender 0x7f0d0044
 int id detail_msg_txt 0x7f0d0042
 int id disableHome 0x7f0d000a
-int id downloadform 0x7f0d0039
+int id downloadform 0x7f0d003b
 int id drawViewLayout 0x7f0d0046
 int id draw_relative_layout 0x7f0d0045
 int id edit_query 0x7f0d0027
@@ -564,7 +564,7 @@ int id mapview_placeholder 0x7f0d0064
 int id mark_as_finalized 0x7f0d00ad
 int id mark_finished 0x7f0d0054
 int id message 0x7f0d0092
-int id mpowermain 0x7f0d003c
+int id mpowermain 0x7f0d003a
 int id msg_date 0x7f0d007a
 int id msg_details_list 0x7f0d0041
 int id msg_list_row 0x7f0d0077
@@ -605,7 +605,7 @@ int id save_mid 0x7f0d00ab
 int id save_name 0x7f0d0053
 int id send_data 0x7f0d0071
 int id send_finalized 0x7f0d0099
-int id sendform 0x7f0d003a
+int id sendform 0x7f0d0039
 int id server_url 0x7f0d00af
 int id showCustom 0x7f0d000c
 int id showHome 0x7f0d000d

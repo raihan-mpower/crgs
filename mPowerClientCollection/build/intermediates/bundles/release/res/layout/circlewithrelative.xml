@@ -6,55 +6,57 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="543dp"
         android:layout_gravity="center" >
 
         <Button
             android:id="@+id/newform"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignParentTop="true"
-            android:layout_centerHorizontal="true"
-            android:background="@drawable/newform" />
+            android:background="@drawable/newform"
+            android:layout_above="@+id/reviewform"
+            android:layout_alignLeft="@+id/sendform"
+            android:layout_alignStart="@+id/sendform" />
 
         <Button
             android:id="@+id/reviewform"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignTop="@+id/newform"
-            android:layout_marginLeft="20dp"
-            android:layout_marginTop="68dp"
+            android:layout_marginLeft="80dp"
+            android:background="@drawable/review"
+            android:layout_marginStart="80dp"
+            android:layout_above="@+id/mpowermain"
             android:layout_toRightOf="@+id/newform"
-            android:background="@drawable/review" />
+            android:layout_toEndOf="@+id/newform" />
 
         <Button
             android:id="@+id/downloadform"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_below="@+id/reviewform"
-            android:layout_marginLeft="20dp"
-            android:layout_marginTop="30dp"
-            android:layout_toRightOf="@+id/newform"
-            android:background="@drawable/download" />
+            android:background="@drawable/download"
+            android:layout_below="@+id/mpowermain"
+            android:layout_alignRight="@+id/reviewform"
+            android:layout_alignEnd="@+id/reviewform" />
 
         <Button
             android:id="@+id/sendform"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignTop="@+id/downloadform"
-            android:layout_centerHorizontal="true"
-            android:layout_marginTop="68dp"
-            android:background="@drawable/send" />
+            android:background="@drawable/send"
+            android:layout_below="@+id/downloadform"
+            android:layout_alignRight="@+id/mpowermain"
+            android:layout_alignEnd="@+id/mpowermain" />
 
         <Button
             android:id="@+id/deleteform"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignBaseline="@+id/downloadform"
-            android:layout_alignBottom="@+id/downloadform"
-            android:layout_marginRight="20dp"
-            android:layout_toLeftOf="@+id/newform"
-            android:background="@drawable/delete" />
+            android:background="@drawable/delete"
+            android:layout_below="@+id/mpowermain"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginLeft="81dp"
+            android:layout_marginStart="81dp" />
 
         <LinearLayout
             android:id="@+id/mpowermain"
@@ -71,10 +73,10 @@
             android:id="@+id/table"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_alignBaseline="@+id/reviewform"
-            android:layout_alignBottom="@+id/reviewform"
-            android:layout_alignRight="@+id/deleteform"
-            android:background="@drawable/table" />
+            android:background="@drawable/table"
+            android:layout_alignTop="@+id/reviewform"
+            android:layout_alignLeft="@+id/deleteform"
+            android:layout_alignStart="@+id/deleteform" />
 
     </RelativeLayout>
 
