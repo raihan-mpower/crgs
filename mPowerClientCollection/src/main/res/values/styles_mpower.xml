@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    <style name="Widget.Styled.ActionBar" parent="Widget.Sherlock.Light.ActionBar">
+    <item name="background">@drawable/actionbar</item>
+	<item name="android:background">@drawable/actionbar</item>   
+	<item name="android:titleTextStyle">@style/mpower.ActionBar.TitleTextStyle</item>
+	<item name="titleTextStyle">@style/mpower.ActionBar.TitleTextStyle</item>	
+	</style>
+	
+    <style name="mpower.ActionBar.TitleTextStyle" parent="TextAppearance.Sherlock.Widget.ActionBar.Title">
+<item name="android:textColor">#fff</item>
+</style>
+    
+<style name="TextViewmpower" parent="android:Widget.TextView">
+    <item name="android:textColor">#8C0710</item>
+</style>
+  <style name="EditTextmpower" parent="android:Widget.EditText">
+	  <item name="android:background">@drawable/mpower_edit_text_holo_light</item>
+	  <item name="android:textColor">#000000</item>
+  </style>
+
+  <style name="CheckBoxmpower" parent="android:Widget.CompoundButton.CheckBox">
+      <item name="android:button">@drawable/mpower_btn_check_holo_light</item>
+  </style>
+
+  <style name="RadioButtonmpower" parent="android:Widget.CompoundButton.RadioButton">
+      <item name="android:button">@drawable/mpower_btn_radio_holo_light</item>
+  </style>
+
+  <style name="Buttonmpower" parent="android:Widget.Button">
+	  <item name="android:background">@drawable/mpower_btn_default_holo_light</item>
+	  <item name="android:minHeight">48dip</item>
+	  <item name="android:minWidth">64dip</item>
+	  <item name="android:textColor">#ffffff</item>
+  </style>
+
+  <style name="ImageButtonmpower" parent="android:Widget.ImageButton">
+	  <item name="android:background">@drawable/mpower_btn_default_holo_light</item>
+  </style>
+
+  <style name="Spinnermpower" parent="android:Widget.Spinner">
+      <item name="android:background">@drawable/mpower_spinner_background_holo_light</item>
+      <item name="android:dropDownSelector">@drawable/mpower_list_selector_holo_light</item>
+  </style>
+
+  <style name="SpinnerDropDownItemmpower" parent="android:Widget.DropDownItem.Spinner">
+      <item name="android:checkMark">@drawable/mpower_btn_radio_holo_light</item>
+  </style>
+  <style name="Tabmpower">
+      <item name="android:gravity">center_horizontal</item>
+      <item name="android:paddingLeft">16dip</item>
+      <item name="android:paddingRight">16dip</item>
+      <item name="android:background">@drawable/mpower_tab_indicator_holo</item>
+      <item name="android:layout_width">0dip</item>
+      <item name="android:layout_weight">1</item>
+      <item name="android:minWidth">80dip</item>
+  </style>
+
+  <style name="TabTextmpower">
+	  <item name="android:textColor">#000000</item>
+      <item name="android:textSize">12sp</item>
+      <item name="android:textStyle">bold</item>
+      <!-- v14 <item name="android:textAllCaps">true</item> -->
+      <item name="android:ellipsize">marquee</item>
+      <item name="android:maxLines">2</item>
+      <item name="android:maxWidth">180dip</item>
+  </style>
+
+  <style name="ProgressBarmpower" parent="android:Widget.ProgressBar.Horizontal">
+      <item name="android:progressDrawable">@drawable/mpower_progress_horizontal_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/mpower_progress_indeterminate_horizontal_holo_light</item>
+      <item name="android:minHeight">16dip</item>
+      <item name="android:maxHeight">16dip</item>
+  </style>
+
+  <style name="SeekBarmpower" parent="android:Widget.SeekBar">
+      <item name="android:progressDrawable">@drawable/mpower_scrubber_progress_horizontal_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/mpower_scrubber_progress_horizontal_holo_light</item>
+      <item name="android:minHeight">13dip</item>
+      <item name="android:maxHeight">13dip</item>
+      <item name="android:thumb">@drawable/mpower_scrubber_control_selector_holo_light</item>
+      <item name="android:thumbOffset">16dip</item>
+      <item name="android:paddingLeft">16dip</item>
+      <item name="android:paddingRight">16dip</item>
+  </style>
+
+  <style name="RatingBarmpower" parent="android:Widget.RatingBar">
+      <item name="android:progressDrawable">@drawable/mpower_ratingbar_full_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/mpower_ratingbar_full_holo_light</item>
+  </style>
+
+  <style name="RatingBarBigmpower">
+      <item name="android:progressDrawable">@drawable/mpower_ratingbar_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/mpower_ratingbar_holo_light</item>
+      <item name="android:minHeight">35dip</item>
+      <item name="android:maxHeight">35dip</item>
+  </style>
+
+  <style name="RatingBarSmallmpower">
+      <item name="android:progressDrawable">@drawable/mpower_ratingbar_small_holo_light</item>
+      <item name="android:indeterminateDrawable">@drawable/mpower_ratingbar_small_holo_light</item>
+      <item name="android:minHeight">16dip</item>
+      <item name="android:maxHeight">16dip</item>
+  </style>
+
+  <style name="Togglempower" parent="android:Widget.Button.Toggle">
+      <item name="android:background">@drawable/mpower_btn_toggle_holo_light</item>
+      <item name="android:minHeight">48dip</item>
+	  <item name="android:textColor">#000000</item>
+  </style>
+
+  <style name="ListViewmpower" parent="android:Widget.ListView">
+      <item name="android:listSelector">@drawable/mpower_list_selector_holo_light</item>
+  </style>
+
+  <style name="ListViewmpower.White" parent="android:Widget.ListView.White">
+      <item name="android:listSelector">@drawable/mpower_list_selector_holo_light</item>
+  </style>
+
+  <style name="SpinnerItemmpower" parent="android:TextAppearance.Widget.TextView.SpinnerItem">
+      <item name="android:textColor">#000000</item>
+  </style>
+
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" >
+
+        <Button
+            android:id="@+id/newform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/newform" />
+
+        <Button
+            android:id="@+id/reviewform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/newform"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="68dp"
+            android:layout_toRightOf="@+id/newform"
+            android:background="@drawable/review" />
+
+        <Button
+            android:id="@+id/downloadform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/reviewform"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_toRightOf="@+id/newform"
+            android:background="@drawable/download" />
+
+        <Button
+            android:id="@+id/sendform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/downloadform"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="68dp"
+            android:background="@drawable/send" />
+
+        <Button
+            android:id="@+id/deleteform"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/downloadform"
+            android:layout_alignBottom="@+id/downloadform"
+            android:layout_marginRight="20dp"
+            android:layout_toLeftOf="@+id/newform"
+            android:background="@drawable/delete" />
+
+        <LinearLayout
+            android:id="@+id/mpowermain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/sendform"
+            android:layout_toRightOf="@+id/deleteform"
+            android:background="@drawable/mpowertext"
+            android:orientation="vertical" >
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/table"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/reviewform"
+            android:layout_alignBottom="@+id/reviewform"
+            android:layout_alignRight="@+id/deleteform"
+            android:background="@drawable/table" />
+
+    </RelativeLayout>
+
+</FrameLayout>
+<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/layout/circlewithrelative.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/build/intermediates/bundles/debug/res/layout/circlewithrelative.xml -->

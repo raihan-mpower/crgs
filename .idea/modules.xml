@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/actionbarsherlock_prev/actionbarsherlock_prev.iml" filepath="$PROJECT_DIR$/actionbarsherlock_prev/actionbarsherlock_prev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mPowerClientCollection/mPowerClientCollection.iml" filepath="$PROJECT_DIR$/mPowerClientCollection/mPowerClientCollection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mSurveyandroid/mSurveyandroid.iml" filepath="$PROJECT_DIR$/mSurveyandroid/mSurveyandroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msurvey_latest.iml" filepath="$PROJECT_DIR$/msurvey_latest.iml" />
+    </modules>
+  </component>
+</project>

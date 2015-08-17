@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values-sw720dp-land/values-sw720dp-land.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">128dp</dimen>
+</resources>

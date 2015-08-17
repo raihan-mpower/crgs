@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="mpower" parent="@style/_mpower"/>
+
+  <style name="_mpower" parent="Theme.Sherlock.Light">
+      <item name="actionBarStyle">@style/Widget.Styled.ActionBar</item>
+      <item name="android:actionBarStyle">@style/Widget.Styled.ActionBar</item>
+      
+	<item name="android:textViewStyle">@style/TextViewmpower</item>
+	
+    <item name="android:editTextStyle">@style/EditTextmpower</item>
+
+    <item name="android:textColorHighlight">#99810d1a</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxmpower</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonmpower</item>
+
+    <item name="android:buttonStyle">@style/Buttonmpower</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonmpower</item>
+
+    <item name="android:spinnerStyle">@style/Spinnermpower</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemmpower</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarmpower</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarmpower</item>
+
+    <item name="android:ratingBarStyle">@style/RatingBarmpower</item>
+
+    <item name="android:ratingBarStyleIndicator">@style/RatingBarBigmpower</item>
+
+    <item name="android:ratingBarStyleSmall">@style/RatingBarSmallmpower</item>
+
+    <item name="android:buttonStyleToggle">@style/Togglempower</item>
+
+    <item name="android:listViewStyle">@style/ListViewmpower</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewmpower.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemmpower</item>
+
+  </style>
+
+</resources>

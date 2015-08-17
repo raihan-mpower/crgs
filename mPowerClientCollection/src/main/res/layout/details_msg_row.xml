@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/chat_icon"
+    android:layout_margin="4dp"
+    android:padding="12dp" >
+
+    <TextView
+        android:id="@+id/detail_msg_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="MSG"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/detail_msg_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/detail_msg_txt"
+        android:text="Msgdate"
+        android:textAppearance="?android:attr/textAppearanceSmall" />
+
+    <TextView
+        android:id="@+id/detail_msg_sender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"  
+        android:layout_marginLeft="5dp"      
+        android:layout_alignBottom="@+id/detail_msg_date"
+        android:layout_toRightOf="@+id/detail_msg_date"
+		android:ellipsize="end"
+        android:text="sender" />
+
+</RelativeLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mpower.android.msurvey_android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="21" />
+
+    <application
+        tools:replace="icon, label"
+        android:name="com.mpower.android.msurvey.application.MSurvey"
+        android:allowBackup="true"
+        android:label="CRGS"
+        android:icon="@drawable/logo_crgs"
+        >
+        <activity
+            android:name="com.mpower.android.msurvey.activity.MainActivity" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        <activity
+            android:name="com.mpower.android.msurvey.activity.SettingActivity"
+            >
+            <intent-filter>
+   		        <action android:name="android.intent.action.mpower.msurvey.setting" />
+             	<category android:name="android.intent.category.DEFAULT" />
+ 		     	</intent-filter>
+            
+        </activity>
+    </application>
+
+</manifest>
