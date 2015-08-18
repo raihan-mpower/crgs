@@ -13,7 +13,7 @@
         tools:replace="icon, label"
         android:name="com.mpower.android.msurvey.application.MSurvey"
         android:allowBackup="true"
-        android:label="CRGS"
+        android:label="NCTF"
         android:icon="@drawable/logo_crgs"
         >
         <activity
