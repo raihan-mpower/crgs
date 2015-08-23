@@ -189,7 +189,7 @@
     <string name="altitude">Altitude</string>
     <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">mSurvey</string>
+    <string name="app_name">NCTF</string>
     <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="app_url">http://mpower-social.com</string>

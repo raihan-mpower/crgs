@@ -2,6 +2,20 @@
 <items version="2" >
 
     <item
+        jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/httpmime-4.1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
+        <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/httpmime-4.1.3-baecedb2f0d43459a580d473119e10ca03bf1097.jar" />
+    </item>
+    <item
+        jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/kxml2-2.3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
+        <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/kxml2-2.3.0-ddd1644fdeb2608d7d36232da9f18cdf265e2c6c.jar" />
+    </item>
+    <item
         jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -12,7 +26,7 @@
         jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="1dce0e6be377766f1fffea16dbb6ba22a64af953">
+        sha1="a3b2caf7dfb244ce691bec58a26a1599544414ed">
         <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/classes-c0b3ca79b245962992a4156a521d58f6453ef7b7.jar" />
     </item>
     <item
@@ -23,32 +37,11 @@
         <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/mqttv3-79dc181d86a0d3b8a8105905b1fb49979d8eeca5.jar" />
     </item>
     <item
-        jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/opencsv-2.3.jar"
+        jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/httpclientandroidlib-4.2.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="c0ffd01065bc3fe571e1a4eb7014a03333f0663d">
-        <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/opencsv-2.3-5c6ff9cebc27729cc534c49294753de568c2b5ff.jar" />
-    </item>
-    <item
-        jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/google-play-services.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="cebe8e4a3a469c4623addcca1dc571407ff3a08e">
-        <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/google-play-services-83e8388825720d80c8722d44e21adc72087a2380.jar" />
-    </item>
-    <item
-        jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/javarosa-libraries-2013-09-30.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="514fa7394b2fc1db8333fbb46fa93161297c4b80">
-        <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/javarosa-libraries-2013-09-30-97fd7a2b4043794d2be49abbdc63fcee0e7edbcc.jar" />
-    </item>
-    <item
-        jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/httpmime-4.1.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="e70d34d98f7f7f3b2b92105b9f2fe2a7a7184461">
-        <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/httpmime-4.1.3-baecedb2f0d43459a580d473119e10ca03bf1097.jar" />
+        sha1="8bdf7922c7f165bc2f4ec893eaf97e4abe47f97f">
+        <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/httpclientandroidlib-4.2.1-022d9ac62949c7266b05dc3a883f199c9f2c751f.jar" />
     </item>
     <item
         jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/joda-time-2.0.jar"
@@ -58,11 +51,11 @@
         <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/joda-time-2.0-4f4dba8fdee1ddd46d047f0995281cb21be38ce9.jar" />
     </item>
     <item
-        jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/httpclientandroidlib-4.2.1.jar"
+        jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/javarosa-libraries-2013-09-30.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="8bdf7922c7f165bc2f4ec893eaf97e4abe47f97f">
-        <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/httpclientandroidlib-4.2.1-022d9ac62949c7266b05dc3a883f199c9f2c751f.jar" />
+        sha1="514fa7394b2fc1db8333fbb46fa93161297c4b80">
+        <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/javarosa-libraries-2013-09-30-97fd7a2b4043794d2be49abbdc63fcee0e7edbcc.jar" />
     </item>
     <item
         jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/gson-2.1.jar"
@@ -79,18 +72,25 @@
         <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/regexp-me-0d1876529a823e1233eacebc6f88fda7d8d8f7bd.jar" />
     </item>
     <item
-        jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/kxml2-2.3.0.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="ccbc77a5fd907ef863c29f3596c6f54ffa4e9442">
-        <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/kxml2-2.3.0-ddd1644fdeb2608d7d36232da9f18cdf265e2c6c.jar" />
-    </item>
-    <item
         jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/jars/libs/android-support-v4.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="db0f122c99ef9f90dbab3fada6d191f2880cbb8e">
         <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/android-support-v4-c666ab8ac60d2826261b7cc40ead77a6902fba0a.jar" />
+    </item>
+    <item
+        jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/opencsv-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0ffd01065bc3fe571e1a4eb7014a03333f0663d">
+        <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/opencsv-2.3-5c6ff9cebc27729cc534c49294753de568c2b5ff.jar" />
+    </item>
+    <item
+        jar="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/jars/libs/google-play-services.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cebe8e4a3a469c4623addcca1dc571407ff3a08e">
+        <dex dex="/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/pre-dexed/debug/google-play-services-83e8388825720d80c8722d44e21adc72087a2380.jar" />
     </item>
 
 </items>
