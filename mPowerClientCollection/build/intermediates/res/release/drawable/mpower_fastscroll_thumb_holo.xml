@@ -18,4 +18,4 @@
     <item android:state_pressed="true" android:drawable="@drawable/mpower_fastscroll_thumb_pressed_holo" />
     <item android:drawable="@drawable/mpower_fastscroll_thumb_default_holo" />
 </selector>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/drawable/mpower_fastscroll_thumb_holo.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/drawable/mpower_fastscroll_thumb_holo.xml -->

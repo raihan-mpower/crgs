@@ -69,4 +69,4 @@ the License.
 		android:padding="20dp"
 		android:gravity="center"
 		android:background="@drawable/white" />
-</RelativeLayout><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/layout/hierarchy_layout.xml -->
+</RelativeLayout><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/layout/hierarchy_layout.xml -->

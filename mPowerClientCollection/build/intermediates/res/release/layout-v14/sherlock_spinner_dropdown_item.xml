@@ -24,4 +24,4 @@
     android:layout_width="match_parent"
     android:layout_height="?attr/dropdownListPreferredItemHeight"
     android:ellipsize="marquee" />
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/actionbarsherlock_prev/src/main/res/layout-v14/sherlock_spinner_dropdown_item.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/res/layout-v14/sherlock_spinner_dropdown_item.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/actionbarsherlock_prev/src/main/res/layout-v14/sherlock_spinner_dropdown_item.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/layout-v14/sherlock_spinner_dropdown_item.xml -->

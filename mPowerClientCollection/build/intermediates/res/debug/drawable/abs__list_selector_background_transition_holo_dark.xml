@@ -18,4 +18,4 @@
     <item android:drawable="@drawable/abs__list_pressed_holo_dark"  />
     <item android:drawable="@drawable/abs__list_longpressed_holo"  />
 </transition>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/actionbarsherlock_prev/src/main/res/drawable/abs__list_selector_background_transition_holo_dark.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/res/drawable/abs__list_selector_background_transition_holo_dark.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/actionbarsherlock_prev/src/main/res/drawable/abs__list_selector_background_transition_holo_dark.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable/abs__list_selector_background_transition_holo_dark.xml -->

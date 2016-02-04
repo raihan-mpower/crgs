@@ -16,4 +16,4 @@ the License.
 <set xmlns:android="http://schemas.android.com/apk/res/android">
 	<alpha android:fromAlpha="0.0" android:toAlpha="1.0" android:duration="300" />
 </set>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/anim/fade_in.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/anim/fade_in.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/anim/fade_in.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/anim/fade_in.xml -->

@@ -160,4 +160,4 @@
             android:title="@string/mark_finished" />
     </PreferenceCategory>
 
-</PreferenceScreen><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/xml/admin_preferences.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/xml/admin_preferences.xml -->
+</PreferenceScreen><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/xml/admin_preferences.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/xml/admin_preferences.xml -->

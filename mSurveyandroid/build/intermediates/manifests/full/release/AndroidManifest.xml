@@ -58,8 +58,8 @@
     <application
         android:name="com.mpower.android.msurvey.application.MSurvey"
         android:allowBackup="true"
-        android:icon="@drawable/logo_crgs"
-        android:label="NCTF"
+        android:icon="@drawable/ic_launcher"
+        android:label="SHIKHON II"
         android:theme="@style/_mpower" >
         <activity android:name="com.mpower.android.msurvey.activity.MainActivity" >
             <intent-filter>

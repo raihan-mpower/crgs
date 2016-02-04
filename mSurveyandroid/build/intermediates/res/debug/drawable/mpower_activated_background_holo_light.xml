@@ -18,4 +18,4 @@
     <item android:state_activated="true" android:drawable="@drawable/mpower_list_activated_holo" />
     <item android:drawable="@android:color/transparent" />
 </selector>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/drawable/mpower_activated_background_holo_light.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/drawable/mpower_activated_background_holo_light.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/drawable/mpower_activated_background_holo_light.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable/mpower_activated_background_holo_light.xml -->

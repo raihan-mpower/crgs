@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string-array name="auto_send_network_value" translatable="false">
 		<item>by_size</item>
@@ -76,7 +76,7 @@
 		<item>@string/protocol_google</item>
 		<item>@string/protocol_other</item>
 	</string-array>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference|color" name="background"/>
     <attr format="reference|color" name="backgroundSplit"/>
@@ -96,7 +96,7 @@
     <color name="abs__bright_foreground_disabled_holo_light">#ffb2b2b2</color>
     <color name="abs__bright_foreground_holo_dark">@color/abs__background_holo_light</color>
     <color name="abs__bright_foreground_holo_light">@color/abs__background_holo_dark</color>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <color name="mpower_color">#810d1a</color>
     <declare-styleable name="SherlockActionBar"><attr name="navigationMode"><enum name="normal" value="0"/><enum name="listMode" value="1"/><enum name="tabMode" value="2"/></attr><attr name="displayOptions"><flag name="useLogo" value="0x1"/><flag name="showHome" value="0x2"/><flag name="homeAsUp" value="0x4"/><flag name="showTitle" value="0x8"/><flag name="showCustom" value="0x10"/><flag name="disableHome" value="0x20"/></attr><attr format="string" name="title"/><attr format="string" name="subtitle"/><attr name="titleTextStyle"/><attr name="subtitleTextStyle"/><attr format="reference" name="icon"/><attr format="reference" name="logo"/><attr name="divider"/><attr name="background"/><attr format="reference|color" name="backgroundStacked"/><attr name="backgroundSplit"/><attr format="reference" name="customNavigationLayout"/><attr name="height"/><attr format="reference" name="homeLayout"/><attr format="reference" name="progressBarStyle"/><attr format="reference" name="indeterminateProgressStyle"/><attr format="dimension" name="progressBarPadding"/><attr format="dimension" name="itemPadding"/></declare-styleable>
@@ -110,7 +110,7 @@
     <declare-styleable name="SherlockSpinner"><attr name="android:prompt"/><attr name="android:dropDownSelector"/><attr name="android:popupBackground"/><attr name="android:dropDownVerticalOffset"/><attr name="android:dropDownHorizontalOffset"/><attr name="android:dropDownWidth"/><attr name="android:popupPromptView"/><attr name="android:gravity"/></declare-styleable>
     <declare-styleable name="SherlockTheme"><attr format="reference" name="actionBarTabStyle"/><attr format="reference" name="actionBarTabBarStyle"/><attr format="reference" name="actionBarTabTextStyle"/><attr format="reference" name="actionOverflowButtonStyle"/><attr format="reference" name="actionBarStyle"/><attr format="reference" name="actionBarSplitStyle"/><attr format="reference" name="actionBarWidgetTheme"/><attr format="dimension" name="actionBarSize"><enum name="wrap_content" value="0"/></attr><attr format="reference" name="actionBarDivider"/><attr format="reference" name="actionBarItemBackground"/><attr format="reference" name="actionMenuTextAppearance"/><attr format="color|reference" name="actionMenuTextColor"/><attr format="reference" name="actionModeStyle"/><attr format="reference" name="actionModeCloseButtonStyle"/><attr format="reference" name="actionModeBackground"/><attr format="reference" name="actionModeSplitBackground"/><attr format="reference" name="actionModeCloseDrawable"/><attr format="reference" name="actionModeShareDrawable"/><attr format="reference" name="actionModePopupWindowStyle"/><attr format="reference" name="buttonStyleSmall"/><attr format="reference" name="selectableItemBackground"/><attr format="reference" name="windowContentOverlay"/><attr format="reference" name="textAppearanceLargePopupMenu"/><attr format="reference" name="textAppearanceSmallPopupMenu"/><attr format="reference" name="textAppearanceSmall"/><attr format="color" name="textColorPrimary"/><attr format="color" name="textColorPrimaryDisableOnly"/><attr format="color" name="textColorPrimaryInverse"/><attr format="reference" name="spinnerItemStyle"/><attr format="reference" name="spinnerDropDownItemStyle"/><attr format="reference" name="searchAutoCompleteTextView"/><attr format="reference" name="searchDropdownBackground"/><attr format="reference" name="searchViewCloseIcon"/><attr format="reference" name="searchViewGoIcon"/><attr format="reference" name="searchViewSearchIcon"/><attr format="reference" name="searchViewVoiceIcon"/><attr format="reference" name="searchViewEditQuery"/><attr format="reference" name="searchViewEditQueryBackground"/><attr format="reference" name="searchViewTextField"/><attr format="reference" name="searchViewTextFieldRight"/><attr format="reference|color" name="textColorSearchUrl"/><attr format="dimension" name="searchResultListItemHeight"/><attr format="reference" name="textAppearanceSearchResultTitle"/><attr format="reference" name="textAppearanceSearchResultSubtitle"/><attr format="dimension" name="listPreferredItemHeightSmall"/><attr format="dimension" name="listPreferredItemPaddingLeft"/><attr format="dimension" name="listPreferredItemPaddingRight"/><attr format="reference" name="textAppearanceListItemSmall"/><attr format="dimension" name="windowMinWidthMajor"/><attr format="dimension" name="windowMinWidthMinor"/><attr format="reference" name="dividerVertical"/><attr format="reference" name="actionDropDownStyle"/><attr format="reference" name="actionButtonStyle"/><attr format="reference" name="homeAsUpIndicator"/><attr format="reference" name="dropDownListViewStyle"/><attr format="reference" name="popupMenuStyle"/><attr format="dimension" name="dropdownListPreferredItemHeight"/><attr format="reference" name="actionSpinnerItemStyle"/><attr format="boolean" name="windowNoTitle"/><attr format="boolean" name="windowActionBar"/><attr format="boolean" name="windowActionBarOverlay"/><attr format="boolean" name="windowActionModeOverlay"/><attr format="boolean" name="windowSplitActionBar"/><attr format="reference" name="listPopupWindowStyle"/><attr format="reference" name="activityChooserViewStyle"/><attr format="reference" name="activatedBackgroundIndicator"/><attr format="reference" name="dropDownHintAppearance"/></declare-styleable>
     <declare-styleable name="SherlockView"><attr name="android:focusable"/></declare-styleable>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abs__action_bar_default_height">48dip</dimen>
     <dimen name="abs__action_bar_icon_vertical_padding">8dip</dimen>
@@ -125,16 +125,16 @@
     <dimen name="abs__dropdownitem_text_padding_right">8dip</dimen>
     <dimen name="abs__search_view_preferred_width">320dip</dimen>
     <dimen name="abs__search_view_text_min_width">160dip</dimen>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/src/main/res/values/dimens.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <dimen name="tab_host_default_height">48dp</dimen>
     <drawable name="black">#ff000000</drawable>
     <drawable name="white">#ffffffff</drawable>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="abs__action_menu_divider" type="id"/>
     <item name="abs__action_menu_presenter" type="id"/>
@@ -142,10 +142,10 @@
     <item name="abs__progress_circular" type="id"/>
     <item name="abs__progress_horizontal" type="id"/>
     <item name="abs__up" type="id"/>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <item name="mapview" type="id"/>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values/values.xml -->
     <eat-comment/>
     <integer name="abs__max_action_buttons">2</integer>
     <string name="abs__action_bar_home_description">Navigate home</string>
@@ -161,16 +161,16 @@
     <string name="abs__searchview_description_voice">Voice search</string>
     <string name="abs__shareactionprovider_share_with">Share with</string>
     <string name="abs__shareactionprovider_share_with_application">Share with <ns1:g example="Bluetooth" id="application_name">%s</ns1:g></string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="accept_bearing">Record Bearing</string>
     <string name="accept_location">Record Location</string>
     <string name="access_error">Error while accessing %s: </string>
     <string name="accuracy">Accuracy</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">Settings</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="activity_not_found">No activity found to handle: %s</string>
     <string name="add_another">Add Group</string>
@@ -187,10 +187,10 @@
     <string name="admin_preferences">Admin Settings</string>
     <string name="advance">forward to\nnext\nprompt</string>
     <string name="altitude">Altitude</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/src/main/res/values/strings.xml -->
     <eat-comment/>
-    <string name="app_name">NCTF</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <string name="app_name">SHIKHON II</string>
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="app_url">http://mpower-social.com</string>
     <string name="audio_file_error">No audio file was specified.</string>
@@ -252,10 +252,10 @@
     <string name="default_clientcollection_submission" translatable="false">/m/submission</string>
     <string name="default_completed">Default to finalized</string>
     <string name="default_completed_summary">Mark form as finalized by default</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="default_server_url">http://27.147.138.56:5005</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="default_splash_path">ClientCollection Default</string>
     <string name="delete">Delete</string>
@@ -306,10 +306,10 @@
     <string name="form_backward">Prev</string>
     <string name="form_download_progress">%1$s. Getting media files: %2$s of %3$s</string>
     <string name="form_forward">Next</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="form_provider_authority">com.mpower.msurvey.provider.msurvey.forms</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="form_scan_starting">Scanning for forms…</string>
     <string name="formlist_url">Form list path</string>
@@ -326,16 +326,16 @@
     <string name="getting_bearing">Loading Bearing</string>
     <string name="getting_location">Loading Location</string>
     <string name="go_to_location">Go to Location</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="hello_world">Hello world!</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="human">Human</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="instance_provider_authority">com.mpower.msurvey.provider.msurvey.instances</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="invalid_answer_error">Sorry, this response is invalid!</string>
     <string name="jump_to_beginning">Go To Start</string>
@@ -455,10 +455,10 @@
     <string name="this_message_will_be_deleted">This message will be deleted</string>
     <string name="timeout">30</string>
     <string name="title_activity_download_asset">DownloadAssetActivity</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/src/main/res/values/strings.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="title_activity_setting">SettingActivity</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="toggle_selected">Toggle All</string>
     <string name="trigger">OK. Please continue.</string>
@@ -477,7 +477,7 @@
     <string name="view_change_location">View or Change Location</string>
     <string name="view_hierarchy">Go To Prompt</string>
     <string name="xform_parse_error">XForm parse error. %1$s is missing element %2$s</string>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/src/main/res/values/styles.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
@@ -489,7 +489,7 @@
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Buttonmpower" parent="android:Widget.Button">
 	  <item name="android:background">@drawable/mpower_btn_default_holo_light</item>
@@ -548,7 +548,7 @@
       <item name="android:paddingLeft">16dip</item>
       <item name="android:paddingRight">16dip</item>
   </style>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Sherlock.__TextAppearance.Small" parent="Widget">
       <item name="android:textSize">14sp</item>
@@ -615,7 +615,7 @@
         <item name="android:completionThreshold">2</item>
         <item name="android:dropDownWidth">wrap_content</item>
     </style>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="SpinnerDropDownItemmpower" parent="android:Widget.DropDownItem.Spinner">
       <item name="android:checkMark">@drawable/mpower_btn_radio_holo_light</item>
@@ -645,7 +645,7 @@
       <item name="android:layout_weight">1</item>
       <item name="android:minWidth">80dip</item>
   </style>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.Sherlock" parent="@android:style/TextAppearance"/>
     <style name="TextAppearance.Sherlock.Light.SearchResult" parent="TextAppearance.Sherlock.SearchResult"/>
@@ -737,12 +737,12 @@
         <item name="android:textSize">16sp</item>
         <item name="android:textStyle">normal</item>
     </style>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="TextViewmpower" parent="android:Widget.TextView">
     <item name="android:textColor">#8C0710</item>
 </style>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.Sherlock" parent="Sherlock.__Theme">
         <!-- Action bar styles (from Theme.Holo) -->
@@ -936,14 +936,14 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Togglempower" parent="android:Widget.Button.Toggle">
       <item name="android:background">@drawable/mpower_btn_toggle_holo_light</item>
       <item name="android:minHeight">48dip</item>
 	  <item name="android:textColor">#000000</item>
   </style>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget">
     </style>
@@ -1162,7 +1162,7 @@
         <item name="android:paddingLeft">8dp</item>
         <item name="android:paddingRight">8dp</item>
     </style>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mSurveyandroid/build/intermediates/exploded-aar/msurvey_latest/mPowerClientCollection/unspecified/res/values/values.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.Styled.ActionBar" parent="Widget.Sherlock.Light.ActionBar">
     <item name="background">@drawable/actionbar</item>

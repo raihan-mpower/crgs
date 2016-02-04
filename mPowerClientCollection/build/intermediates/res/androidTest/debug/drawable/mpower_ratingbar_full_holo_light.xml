@@ -20,4 +20,4 @@
     <item android:id="@+android:id/progress" android:drawable="@drawable/mpower_ratingbar_full_filled_holo_light" />
 </layer-list>
 
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/drawable/mpower_ratingbar_full_holo_light.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/build/intermediates/bundles/debug/res/drawable/mpower_ratingbar_full_holo_light.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/drawable/mpower_ratingbar_full_holo_light.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/build/intermediates/bundles/debug/res/drawable/mpower_ratingbar_full_holo_light.xml -->

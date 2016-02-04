@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/values-v14/styles.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/values-v14/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
         <!-- API 14 theme customizations can go here. -->
     </style>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/res/values-v14/values-v14.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values-v14/values-v14.xml -->
     <eat-comment/>
     <style name="Sherlock.__Theme" parent="android:Theme.Holo">
     </style>

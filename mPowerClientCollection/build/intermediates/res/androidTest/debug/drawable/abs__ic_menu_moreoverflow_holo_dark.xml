@@ -16,4 +16,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/abs__ic_menu_moreoverflow_normal_holo_dark" />
 </selector>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/actionbarsherlock_prev/src/main/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/build/intermediates/exploded-aar/msurvey_latest/actionbarsherlock_prev/unspecified/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/actionbarsherlock_prev/src/main/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable/abs__ic_menu_moreoverflow_holo_dark.xml -->

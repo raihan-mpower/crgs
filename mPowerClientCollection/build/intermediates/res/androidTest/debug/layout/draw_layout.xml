@@ -41,4 +41,4 @@
             android:text="@string/cancel" />
     </LinearLayout>
 
-</RelativeLayout><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/layout/draw_layout.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/build/intermediates/bundles/debug/res/layout/draw_layout.xml -->
+</RelativeLayout><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/layout/draw_layout.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/build/intermediates/bundles/debug/res/layout/draw_layout.xml -->

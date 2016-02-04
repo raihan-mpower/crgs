@@ -57,4 +57,4 @@
     <item android:state_checked="true" android:drawable="@drawable/mpower_btn_radio_on_disabled_holo_light" />
 
 </selector>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/drawable/mpower_btn_radio_holo_light.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/build/intermediates/bundles/debug/res/drawable/mpower_btn_radio_holo_light.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/drawable/mpower_btn_radio_holo_light.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/build/intermediates/bundles/debug/res/drawable/mpower_btn_radio_holo_light.xml -->

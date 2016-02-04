@@ -62,7 +62,7 @@
             android:id="@+id/mpowermain"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@drawable/logo_crgs"
+            android:background="@drawable/ic_launcher"
             android:orientation="vertical"
             android:layout_centerVertical="true"
             android:layout_centerHorizontal="true">
@@ -81,4 +81,4 @@
     </RelativeLayout>
 
 </FrameLayout>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/layout/circlewithrelative.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/layout/circlewithrelative.xml -->

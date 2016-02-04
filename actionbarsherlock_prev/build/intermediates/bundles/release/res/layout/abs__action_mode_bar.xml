@@ -22,4 +22,4 @@
      android:layout_height="wrap_content"
      android:visibility="gone"
      style="?attr/actionModeStyle" />
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/actionbarsherlock_prev/src/main/res/layout/abs__action_mode_bar.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/actionbarsherlock_prev/src/main/res/layout/abs__action_mode_bar.xml -->

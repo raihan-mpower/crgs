@@ -24,4 +24,4 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:ellipsize="marquee" />
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/actionbarsherlock_prev/src/main/res/layout/sherlock_spinner_item.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/actionbarsherlock_prev/build/intermediates/bundles/debug/res/layout/sherlock_spinner_item.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/actionbarsherlock_prev/src/main/res/layout/sherlock_spinner_item.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/actionbarsherlock_prev/build/intermediates/bundles/debug/res/layout/sherlock_spinner_item.xml -->

@@ -16,4 +16,4 @@ the License.
 <set xmlns:android="http://schemas.android.com/apk/res/android">
 	<alpha android:fromAlpha="1.0" android:toAlpha="0.0" android:duration="0" />
 </set>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/anim/invisible.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/anim/invisible.xml -->

@@ -58,4 +58,4 @@ the License.
 		android:gravity="center"
 		android:background="@drawable/white"
 		android:textColor="@drawable/black" />
-</RelativeLayout><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/layout/instance_uploader_xml_list.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/build/intermediates/bundles/debug/res/layout/instance_uploader_xml_list.xml -->
+</RelativeLayout><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/layout/instance_uploader_xml_list.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/build/intermediates/bundles/debug/res/layout/instance_uploader_xml_list.xml -->

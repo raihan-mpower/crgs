@@ -24,4 +24,4 @@
     <item android:state_focused="true"                                                             android:drawable="@drawable/mpower_list_focused_holo" />
     <item                                                                                          android:drawable="@android:color/transparent" />
 </selector>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/drawable/mpower_item_background_holo_light.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/drawable/mpower_item_background_holo_light.xml -->

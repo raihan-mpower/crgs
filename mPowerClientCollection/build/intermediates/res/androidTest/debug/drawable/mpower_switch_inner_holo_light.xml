@@ -20,4 +20,4 @@
     <item android:state_checked="true"  android:drawable="@drawable/mpower_switch_thumb_activated_holo_light" />
     <item                               android:drawable="@drawable/mpower_switch_thumb_holo_light" />
 </selector>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/src/main/res/drawable/mpower_switch_inner_holo_light.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/build/intermediates/bundles/debug/res/drawable/mpower_switch_inner_holo_light.xml -->
+<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/drawable/mpower_switch_inner_holo_light.xml --><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/build/intermediates/bundles/debug/res/drawable/mpower_switch_inner_holo_light.xml -->

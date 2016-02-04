@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/msurvey_latest/mPowerClientCollection/build/intermediates/bundles/debug/res/values-fr/values-fr.xml -->
+    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/build/intermediates/bundles/debug/res/values-fr/values-fr.xml -->
     <eat-comment/>
     <string name="accept_location">Enregistrer le lieu</string>
     <string name="access_error">Erreur lors de l\'accès à %s: </string>
