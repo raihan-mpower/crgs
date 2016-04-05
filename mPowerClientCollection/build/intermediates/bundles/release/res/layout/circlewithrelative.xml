@@ -15,8 +15,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/newform"
             android:layout_above="@+id/reviewform"
-            android:layout_alignLeft="@+id/sendform"
-            android:layout_alignStart="@+id/sendform" />
+            android:layout_centerHorizontal="true" />
 
         <Button
             android:id="@+id/reviewform"
@@ -44,8 +43,8 @@
             android:layout_height="wrap_content"
             android:background="@drawable/send"
             android:layout_below="@+id/downloadform"
-            android:layout_alignRight="@+id/mpowermain"
-            android:layout_alignEnd="@+id/mpowermain" />
+            android:layout_toLeftOf="@+id/reviewform"
+            android:layout_toStartOf="@+id/reviewform" />
 
         <Button
             android:id="@+id/deleteform"
@@ -53,10 +52,8 @@
             android:layout_height="wrap_content"
             android:background="@drawable/delete"
             android:layout_below="@+id/mpowermain"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_marginLeft="81dp"
-            android:layout_marginStart="81dp" />
+            android:layout_alignLeft="@+id/table"
+            android:layout_alignStart="@+id/table" />
 
         <LinearLayout
             android:id="@+id/mpowermain"
@@ -74,9 +71,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/table"
-            android:layout_alignTop="@+id/reviewform"
-            android:layout_alignLeft="@+id/deleteform"
-            android:layout_alignStart="@+id/deleteform" />
+            android:layout_above="@+id/mpowermain"
+            android:layout_toLeftOf="@+id/newform"
+            android:layout_toStartOf="@+id/newform"
+            android:layout_marginRight="80dp"
+            android:layout_marginEnd="80dp" />
 
     </RelativeLayout>
 

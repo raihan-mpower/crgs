@@ -1013,7 +1013,7 @@ containing a value of this type.
         public static final int detail_msg_sender=0x7f0d0044;
         public static final int detail_msg_txt=0x7f0d0042;
         public static final int disableHome=0x7f0d000a;
-        public static final int downloadform=0x7f0d003b;
+        public static final int downloadform=0x7f0d003a;
         public static final int drawViewLayout=0x7f0d0046;
         public static final int draw_relative_layout=0x7f0d0045;
         public static final int edit_query=0x7f0d0027;
@@ -1053,7 +1053,7 @@ containing a value of this type.
         public static final int mark_as_finalized=0x7f0d00ad;
         public static final int mark_finished=0x7f0d0054;
         public static final int message=0x7f0d0092;
-        public static final int mpowermain=0x7f0d003a;
+        public static final int mpowermain=0x7f0d0039;
         public static final int msg_date=0x7f0d007a;
         public static final int msg_details_list=0x7f0d0041;
         public static final int msg_list_row=0x7f0d0077;
@@ -1094,7 +1094,7 @@ containing a value of this type.
         public static final int save_name=0x7f0d0053;
         public static final int send_data=0x7f0d0071;
         public static final int send_finalized=0x7f0d0099;
-        public static final int sendform=0x7f0d0039;
+        public static final int sendform=0x7f0d003b;
         public static final int server_url=0x7f0d00af;
         public static final int showCustom=0x7f0d000c;
         public static final int showHome=0x7f0d000d;
