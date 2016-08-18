@@ -762,7 +762,7 @@ containing a value of this type.
         public static int admin=0x7f020071;
         public static int advance=0x7f020072;
         public static int backup=0x7f020073;
-        public static int black=0x7f020122;
+        public static int black=0x7f020123;
         public static int chat=0x7f020074;
         public static int chat_icon=0x7f020075;
         public static int circularlogo=0x7f020076;
@@ -932,12 +932,13 @@ containing a value of this type.
         public static int send=0x7f02011a;
         public static int settings=0x7f02011b;
         public static int settingsbutton=0x7f02011c;
-        public static int stat_notify_sync=0x7f02011d;
-        public static int swipe=0x7f02011e;
-        public static int table=0x7f02011f;
-        public static int thumb=0x7f020120;
-        public static int tools=0x7f020121;
-        public static int white=0x7f020123;
+        public static int splash_screen=0x7f02011d;
+        public static int stat_notify_sync=0x7f02011e;
+        public static int swipe=0x7f02011f;
+        public static int table=0x7f020120;
+        public static int thumb=0x7f020121;
+        public static int tools=0x7f020122;
+        public static int white=0x7f020124;
     }
     public static final class id {
         public static int abs__action_bar=0x7f0d0021;
@@ -2512,7 +2513,7 @@ containing a value of this type.
          */
         public static final int[] SherlockSpinner = {
             0x010100af, 0x01010175, 0x01010176, 0x0101017b,
-            0x01010262, 0x010102ac, 0x010102ad, 0x0101043a
+            0x01010262, 0x010102ac, 0x010102ad, 0x01010534
         };
         /**
           <p>This symbol is the offset where the {@link android.R.attr#dropDownHorizontalOffset}

@@ -19,4 +19,4 @@
         android:layout_alignParentRight="true"
         android:contentDescription="@+string/select_answer" />
 
-</RelativeLayout><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/layout/quick_select_layout.xml -->
+</RelativeLayout>

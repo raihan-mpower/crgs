@@ -22,4 +22,4 @@
     <item android:state_enabled="true" android:drawable="@drawable/mpower_textfield_default_holo_light" />
     <item android:state_focused="true" android:drawable="@drawable/mpower_textfield_disabled_focused_holo_light" />
     <item android:drawable="@drawable/mpower_textfield_disabled_holo_light" />
-</selector><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/drawable/mpower_edit_text_holo_light.xml -->
+</selector>

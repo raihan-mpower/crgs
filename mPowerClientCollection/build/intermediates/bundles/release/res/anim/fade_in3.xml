@@ -18,4 +18,3 @@ the License.
 	     android:interpolator="@android:anim/accelerate_interpolator"	   
 	    android:duration="1700" />
 </set>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/anim/fade_in3.xml -->

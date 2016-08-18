@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values-w500dp/values-w500dp.xml -->
-    <eat-comment/>
-    <integer name="abs__max_action_buttons">4</integer>
-</resources>

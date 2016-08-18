@@ -73,4 +73,4 @@ android:layout_weight="1"      />
       android:gravity="center"/>
 
 
-</RelativeLayout><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/layout/remote_file_manage_list.xml -->
+</RelativeLayout>

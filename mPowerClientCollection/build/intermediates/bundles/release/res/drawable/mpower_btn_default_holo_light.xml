@@ -30,4 +30,3 @@
     <item
          android:drawable="@drawable/mpower_btn_default_disabled_holo_light" />
 </selector>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/drawable/mpower_btn_default_holo_light.xml -->

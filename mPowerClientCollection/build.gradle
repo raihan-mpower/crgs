@@ -1,12 +1,12 @@
 apply plugin: 'com.android.library'
 
 android {
-    compileSdkVersion 'Google Inc.:Google APIs:19'
-    buildToolsVersion "22.0.1"
+    compileSdkVersion 21
+    buildToolsVersion "23.0.2"
 
     defaultConfig {
-        minSdkVersion 8
-        targetSdkVersion 18
+        minSdkVersion 7
+        targetSdkVersion 17
     }
 
     buildTypes {
@@ -19,7 +19,6 @@ android {
 
 dependencies {
     compile project(':actionbarsherlock_prev')
-    compile files('libs/android-support-v4.jar')
     compile files('libs/google-play-services.jar')
     compile files('libs/gson-2.1.jar')
     compile files('libs/httpclientandroidlib-4.2.1.jar')

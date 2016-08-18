@@ -45,4 +45,3 @@ the License.
 			android:background="@drawable/white"
 			android:textColor="@drawable/black" />
 </LinearLayout>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/layout/chooser_list_layout.xml -->

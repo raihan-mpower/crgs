@@ -1,0 +1,878 @@
+[
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_commit_search_api_holo_dark.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_transparent_light_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_transparent_dark_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_scrubber_track_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_scrubber_track_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/expander_ic_right.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/expander_ic_right.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_radio_on_disabled_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_radio_on_disabled_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_pressed_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_backward.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_backward.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_go_search_api_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_scrubber_control_pressed_holo.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_scrubber_control_pressed_holo.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_ab_back_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_rating_star_off_normal_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_rating_star_off_normal_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_textfield_default_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_textfield_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_rating_star_off_pressed_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_rating_star_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_fastscroll_thumb_default_holo.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_fastscroll_thumb_default_holo.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_stacked_transparent_dark_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_radio_on_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_radio_on_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/stat_notify_sync.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/stat_notify_sync.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_toggle_on_normal_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_toggle_on_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_toggle_off_pressed_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_toggle_off_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo8.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo8.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_ic_navigation_drawer.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_ic_navigation_drawer.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/expander_ic_maximized.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/expander_ic_maximized.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_selected_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/backup.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/backup.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_cab_done_holo_dark.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_scrubber_secondary_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_scrubber_secondary_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_radio_off_disabled_focused_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_radio_off_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_toggle_off_disabled_focused_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_toggle_off_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_radio_off_focused_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_radio_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_radio_off_pressed_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_radio_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_clear_search_api_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_check_off_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_check_on_focused_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_scrubber_control_focused_holo.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_scrubber_control_focused_holo.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_selector_disabled_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_tab_unselected_focused_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_solid_shadow_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_solid_shadow_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_divider_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_list_activated_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_list_activated_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_bg_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__progress_bg_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_primary_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__progress_primary_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_focused_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__btn_cab_done_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_check_on_pressed_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/notes.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/notes.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_text_select_handle_left.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_text_select_handle_left.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_tab_selected_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__cab_background_bottom_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_longpressed_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_solid_dark_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_check_off_pressed_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_share_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__menu_dropdown_panel_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_switch_bg_disabled_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_switch_bg_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_default_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/msg_icon.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/msg_icon.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_toggle_on_disabled_focused_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_toggle_on_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_default_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__btn_cab_done_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_secondary_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__progress_secondary_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_mylocation.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_mylocation.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__tab_selected_pressed_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_radio_on_pressed_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_radio_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo4.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo4.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_switch_thumb_disabled_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_switch_thumb_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_radio_off_disabled_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_radio_off_disabled_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_spinner_focused_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_spinner_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_scrubber_control_disabled_holo.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_scrubber_control_disabled_holo.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_check_off_disabled_focused_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_check_off_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_48_inner_holo.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__spinner_48_inner_holo.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_go.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_go.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_selector_disabled_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_default_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_voice_search_api_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__cab_background_top_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_toggle_off_normal_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_toggle_off_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_stacked_transparent_light_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_activated_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__list_activated_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_login.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_login.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__tab_selected_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_pressed_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__tab_selected_focused_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_rating_star_off_focused_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_rating_star_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_clear_normal.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_clear_normal.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_send.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_send.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_start_conversation.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_stacked_solid_dark_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_clear_search_api_disabled_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_tab_selected_focused_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_48_outer_holo.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__spinner_48_outer_holo.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_radio_on_disabled_focused_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_radio_on_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_focused_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_tab_unselected_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_secondary_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_pressed_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_switch_thumb_activated_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_switch_thumb_activated_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/advance.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/advance.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_tab_unselected_pressed_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_solid_light_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_rate_star_small_off_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_rate_star_small_off_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo3.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo3.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_switch_thumb_pressed_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_switch_thumb_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/file_upload.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/file_upload.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_radio_on_focused_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_radio_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__cab_background_top_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_radio_off_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_radio_off_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_switch_bg_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_switch_bg_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/tools.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/tools.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/pencil.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/pencil.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/chat_icon.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/chat_icon.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_textfield_disabled_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_textfield_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_disabled_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_clear_playlist.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_clear_playlist.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_rate_star_small_half_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_rate_star_small_half_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_progress_primary_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_spinner_disabled_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_spinner_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/left_arrow.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/left_arrow.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_bg_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_spinner_pressed_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_spinner_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_goto.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_goto.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_rating_star_on_normal_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_rating_star_on_normal_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_rate_star_big_on_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_rate_star_big_on_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_fastscroll_thumb_pressed_holo.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_fastscroll_thumb_pressed_holo.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_save.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_save.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_stacked_solid_light_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_default_focused_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_default_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_progress_bg_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_progress_bg_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_share_pack_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_refresh.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_refresh.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo1.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo1.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_toggle_on_focused_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_toggle_on_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/expander_ic_minimized.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/expander_ic_minimized.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_search_api_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_progress_secondary_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_progress_secondary_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__progress_primary_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__progress_primary_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_switch_bg_focused_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_switch_bg_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo7.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo7.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_right_default_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_focused_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_scrubber_control_normal_holo.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_scrubber_control_normal_holo.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/notifications.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/notifications.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo2.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo2.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_disabled_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_textfield_disabled_focused_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_textfield_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_rate_star_big_half_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_rate_star_big_half_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_focused_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__btn_cab_done_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__tab_unselected_pressed_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_default_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_search.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_search.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_default_disabled_focused_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_default_disabled_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_rating_star_on_pressed_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_rating_star_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__toast_frame.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__toast_frame.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__spinner_ab_focused_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_list_longpressed_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_clear_disabled.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_clear_disabled.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_tab_selected_pressed_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_toggle_off_disabled_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_toggle_off_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_solid_dark_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_commit_search_api_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_toggle_on_disabled_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_toggle_on_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_bottom_solid_inverse_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_bottom_solid_inverse_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo6.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo6.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_text_select_handle_right.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_text_select_handle_right.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/human.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/human.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__menu_dropdown_panel_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_transparent_light_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_textfield_focused_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_textfield_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_pressed_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__btn_cab_done_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_mark.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_mark.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_share_pack_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_voice_search.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_voice_search.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_check_off_disabled_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_check_off_disabled_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_maps_indicator_current_position.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_maps_indicator_current_position.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_preferences.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_preferences.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_right_default_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_toggle_off_focused_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_toggle_off_focused_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_rate_star_small_on_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_rate_star_small_on_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_cab_done_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_divider_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_close_clear_cancel.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_close_clear_cancel.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_scrubber_primary_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_scrubber_primary_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_text_select_handle_middle.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_text_select_handle_middle.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_switch_thumb_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_switch_thumb_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo5.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_progressbar_indeterminate_holo5.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/email_delete.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/email_delete.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_default_pressed_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_default_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_pressed_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__btn_cab_done_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_solid_light_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_ab_back_holo_dark.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_toggle_on_pressed_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_toggle_on_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/file_download.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/file_download.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ic_menu_share_holo_dark.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_check_on_disabled_focused_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_check_on_disabled_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__btn_cab_done_default_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__btn_cab_done_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_check_off_focused_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_check_on_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_list_focused_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_forward.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_forward.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__cab_background_bottom_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__ab_transparent_dark_holo.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_right_selected_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_rating_star_on_focused_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_rating_star_on_focused_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__list_pressed_holo_dark.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_check_on_disabled_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_check_on_disabled_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_menu_manage.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/ic_menu_manage.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_default_disabled_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_default_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/email_compose.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/email_compose.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_btn_default_normal_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_btn_default_normal_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_spinner_default_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_spinner_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_selected_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_list_pressed_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_default_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_icon.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_icon.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/abs__textfield_search_right_selected_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/drawable-mdpi-v4/abs__textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_rate_star_big_off_holo_light.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_rate_star_big_off_holo_light.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_list_selector_disabled_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/debug/drawable-mdpi-v4/mpower_textfield_activated_holo_light.9.png",
+        "source": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/mPowerClientCollection/unspecified/res/drawable-mdpi-v4/mpower_textfield_activated_holo_light.9.png"
+    }
+]

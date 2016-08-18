@@ -275,7 +275,7 @@ int drawable actionbar 0x7f020070
 int drawable admin 0x7f020071
 int drawable advance 0x7f020072
 int drawable backup 0x7f020073
-int drawable black 0x7f020122
+int drawable black 0x7f020123
 int drawable chat 0x7f020074
 int drawable chat_icon 0x7f020075
 int drawable circularlogo 0x7f020076
@@ -445,12 +445,13 @@ int drawable savenew 0x7f020119
 int drawable send 0x7f02011a
 int drawable settings 0x7f02011b
 int drawable settingsbutton 0x7f02011c
-int drawable stat_notify_sync 0x7f02011d
-int drawable swipe 0x7f02011e
-int drawable table 0x7f02011f
-int drawable thumb 0x7f020120
-int drawable tools 0x7f020121
-int drawable white 0x7f020123
+int drawable splash_screen 0x7f02011d
+int drawable stat_notify_sync 0x7f02011e
+int drawable swipe 0x7f02011f
+int drawable table 0x7f020120
+int drawable thumb 0x7f020121
+int drawable tools 0x7f020122
+int drawable white 0x7f020124
 int id abs__action_bar 0x7f0d0021
 int id abs__action_bar_container 0x7f0d0020
 int id abs__action_bar_subtitle 0x7f0d0012
@@ -1203,7 +1204,7 @@ int styleable SherlockSearchView_android_inputType 1
 int styleable SherlockSearchView_android_maxWidth 0
 int styleable SherlockSearchView_iconifiedByDefault 3
 int styleable SherlockSearchView_queryHint 4
-int[] styleable SherlockSpinner { 0x010100af, 0x01010175, 0x01010176, 0x0101017b, 0x01010262, 0x010102ac, 0x010102ad, 0x0101043a }
+int[] styleable SherlockSpinner { 0x010100af, 0x01010175, 0x01010176, 0x0101017b, 0x01010262, 0x010102ac, 0x010102ad, 0x01010534 }
 int styleable SherlockSpinner_android_dropDownHorizontalOffset 5
 int styleable SherlockSpinner_android_dropDownSelector 1
 int styleable SherlockSpinner_android_dropDownVerticalOffset 6

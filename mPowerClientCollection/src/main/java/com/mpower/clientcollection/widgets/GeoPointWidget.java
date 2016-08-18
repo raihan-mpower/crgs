@@ -35,7 +35,7 @@ import android.widget.TextView;
 import com.mpower.clientcollection.activities.FormEntryActivity;
 import com.mpower.clientcollection.activities.GeoPointActivity;
 import com.mpower.clientcollection.activities.GeoPointMapActivity;
-import com.mpower.clientcollection.activities.GeoPointMapActivitySdk7;
+//import com.mpower.clientcollection.activities.GeoPointMapActivitySdk7;
 import com.mpower.clientcollection.activity.R;
 import com.mpower.clientcollection.application.ClientCollection;
 import com.mpower.clientcollection.utilities.CompatibilityUtils;
@@ -148,7 +148,7 @@ public class GeoPointWidget extends QuestionWidget implements IBinaryWidget {
 				if (mUseMapsV2 ) {
 					i = new Intent(getContext(), GeoPointMapActivity.class);
 				} else {
-					i = new Intent(getContext(), GeoPointMapActivitySdk7.class);
+					i = new Intent(getContext(), GeoPointMapActivity.class);
 				}
 
 				String s = mStringAnswer.getText().toString();
@@ -188,7 +188,7 @@ public class GeoPointWidget extends QuestionWidget implements IBinaryWidget {
 				if ( mUseMapsV2 ) {
 					i = new Intent(getContext(), GeoPointMapActivity.class);
 				} else if (mUseMaps) {
-					i = new Intent(getContext(), GeoPointMapActivitySdk7.class);
+					i = new Intent(getContext(), GeoPointMapActivity.class);
 				} else {
 					i = new Intent(getContext(), GeoPointActivity.class);
 				}

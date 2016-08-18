@@ -160,4 +160,4 @@
             android:title="@string/mark_finished" />
     </PreferenceCategory>
 
-</PreferenceScreen><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/xml/admin_preferences.xml -->
+</PreferenceScreen>

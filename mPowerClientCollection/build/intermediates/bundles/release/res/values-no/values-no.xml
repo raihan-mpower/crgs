@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/values-no/strings.xml -->
-    <eat-comment/>
     <string name="accept_location">Registrer posisjon</string>
     <string name="access_error">"Det er oppstått en feil ved %s."</string>
     <string name="accuracy">Presisjon</string>

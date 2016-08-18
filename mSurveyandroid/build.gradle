@@ -1,13 +1,15 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 'Google Inc.:Google APIs:19'
-    buildToolsVersion "22.0.1"
+    compileSdkVersion 21
+    buildToolsVersion "23.0.2"
 
     defaultConfig {
         applicationId "com.mpower.android.msurvey_android"
-        minSdkVersion 8
-        targetSdkVersion 21
+        minSdkVersion 7
+        targetSdkVersion 17
+        multiDexEnabled = true
+
     }
 
     buildTypes {

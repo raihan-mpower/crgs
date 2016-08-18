@@ -275,7 +275,7 @@ int drawable actionbar 0x7f020070
 int drawable admin 0x7f020071
 int drawable advance 0x7f020072
 int drawable backup 0x7f020073
-int drawable black 0x7f020122
+int drawable black 0x7f020123
 int drawable chat 0x7f020074
 int drawable chat_icon 0x7f020075
 int drawable circularlogo 0x7f020076
@@ -445,12 +445,13 @@ int drawable savenew 0x7f020119
 int drawable send 0x7f02011a
 int drawable settings 0x7f02011b
 int drawable settingsbutton 0x7f02011c
-int drawable stat_notify_sync 0x7f02011d
-int drawable swipe 0x7f02011e
-int drawable table 0x7f02011f
-int drawable thumb 0x7f020120
-int drawable tools 0x7f020121
-int drawable white 0x7f020123
+int drawable splash_screen 0x7f02011d
+int drawable stat_notify_sync 0x7f02011e
+int drawable swipe 0x7f02011f
+int drawable table 0x7f020120
+int drawable thumb 0x7f020121
+int drawable tools 0x7f020122
+int drawable white 0x7f020124
 int id abs__action_bar 0x7f0d0021
 int id abs__action_bar_container 0x7f0d0020
 int id abs__action_bar_subtitle 0x7f0d0012
@@ -524,7 +525,7 @@ int id detail_msg_date 0x7f0d0043
 int id detail_msg_sender 0x7f0d0044
 int id detail_msg_txt 0x7f0d0042
 int id disableHome 0x7f0d000a
-int id downloadform 0x7f0d003b
+int id downloadform 0x7f0d003a
 int id drawViewLayout 0x7f0d0046
 int id draw_relative_layout 0x7f0d0045
 int id edit_query 0x7f0d0027
@@ -564,7 +565,7 @@ int id mapview_placeholder 0x7f0d0064
 int id mark_as_finalized 0x7f0d00ad
 int id mark_finished 0x7f0d0054
 int id message 0x7f0d0092
-int id mpowermain 0x7f0d003a
+int id mpowermain 0x7f0d0039
 int id msg_date 0x7f0d007a
 int id msg_details_list 0x7f0d0041
 int id msg_list_row 0x7f0d0077
@@ -605,7 +606,7 @@ int id save_mid 0x7f0d00ab
 int id save_name 0x7f0d0053
 int id send_data 0x7f0d0071
 int id send_finalized 0x7f0d0099
-int id sendform 0x7f0d0039
+int id sendform 0x7f0d003b
 int id server_url 0x7f0d00af
 int id showCustom 0x7f0d000c
 int id showHome 0x7f0d000d
@@ -1203,7 +1204,7 @@ int styleable SherlockSearchView_android_inputType 1
 int styleable SherlockSearchView_android_maxWidth 0
 int styleable SherlockSearchView_iconifiedByDefault 3
 int styleable SherlockSearchView_queryHint 4
-int[] styleable SherlockSpinner { 0x010100af, 0x01010175, 0x01010176, 0x0101017b, 0x01010262, 0x010102ac, 0x010102ad, 0x0101043a }
+int[] styleable SherlockSpinner { 0x010100af, 0x01010175, 0x01010176, 0x0101017b, 0x01010262, 0x010102ac, 0x010102ad, 0x01010534 }
 int styleable SherlockSpinner_android_dropDownHorizontalOffset 5
 int styleable SherlockSpinner_android_dropDownSelector 1
 int styleable SherlockSpinner_android_dropDownVerticalOffset 6

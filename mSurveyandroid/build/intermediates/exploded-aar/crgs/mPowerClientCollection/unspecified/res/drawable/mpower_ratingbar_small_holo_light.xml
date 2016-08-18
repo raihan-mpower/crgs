@@ -20,4 +20,3 @@
     <item android:id="@+android:id/progress" android:drawable="@drawable/mpower_rate_star_small_on_holo_light" />
 </layer-list>
 
-<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/drawable/mpower_ratingbar_small_holo_light.xml -->

@@ -1,0 +1,70 @@
+[
+    {
+        "outputFile": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/res/merged/release/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 182
+                },
+                "from": {
+                    "file": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 8,
+                        "endColumn": 12,
+                        "endOffset": 304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 187,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 372
+                },
+                "from": {
+                    "file": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 5,
+                        "endColumn": 12,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 377,
+                    "endLine": 12,
+                    "endColumn": 12,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mSurveyandroid/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values-v11/values-v11.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 245,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 442
+                    }
+                }
+            }
+        ]
+    }
+]

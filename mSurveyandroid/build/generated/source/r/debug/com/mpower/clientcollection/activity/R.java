@@ -297,7 +297,7 @@ public final class R {
 		public static final int admin = 0x7f020071;
 		public static final int advance = 0x7f020072;
 		public static final int backup = 0x7f020073;
-		public static final int black = 0x7f020122;
+		public static final int black = 0x7f020123;
 		public static final int chat = 0x7f020074;
 		public static final int chat_icon = 0x7f020075;
 		public static final int circularlogo = 0x7f020076;
@@ -467,12 +467,13 @@ public final class R {
 		public static final int send = 0x7f02011a;
 		public static final int settings = 0x7f02011b;
 		public static final int settingsbutton = 0x7f02011c;
-		public static final int stat_notify_sync = 0x7f02011d;
-		public static final int swipe = 0x7f02011e;
-		public static final int table = 0x7f02011f;
-		public static final int thumb = 0x7f020120;
-		public static final int tools = 0x7f020121;
-		public static final int white = 0x7f020123;
+		public static final int splash_screen = 0x7f02011d;
+		public static final int stat_notify_sync = 0x7f02011e;
+		public static final int swipe = 0x7f02011f;
+		public static final int table = 0x7f020120;
+		public static final int thumb = 0x7f020121;
+		public static final int tools = 0x7f020122;
+		public static final int white = 0x7f020124;
 	}
 	public static final class id {
 		public static final int abs__action_bar = 0x7f0d0021;
@@ -548,7 +549,7 @@ public final class R {
 		public static final int detail_msg_sender = 0x7f0d0044;
 		public static final int detail_msg_txt = 0x7f0d0042;
 		public static final int disableHome = 0x7f0d000a;
-		public static final int downloadform = 0x7f0d003b;
+		public static final int downloadform = 0x7f0d003a;
 		public static final int drawViewLayout = 0x7f0d0046;
 		public static final int draw_relative_layout = 0x7f0d0045;
 		public static final int edit_query = 0x7f0d0027;
@@ -588,7 +589,7 @@ public final class R {
 		public static final int mark_as_finalized = 0x7f0d00ad;
 		public static final int mark_finished = 0x7f0d0054;
 		public static final int message = 0x7f0d0092;
-		public static final int mpowermain = 0x7f0d003a;
+		public static final int mpowermain = 0x7f0d0039;
 		public static final int msg_date = 0x7f0d007a;
 		public static final int msg_details_list = 0x7f0d0041;
 		public static final int msg_list_row = 0x7f0d0077;
@@ -629,7 +630,7 @@ public final class R {
 		public static final int save_name = 0x7f0d0053;
 		public static final int send_data = 0x7f0d0071;
 		public static final int send_finalized = 0x7f0d0099;
-		public static final int sendform = 0x7f0d0039;
+		public static final int sendform = 0x7f0d003b;
 		public static final int server_url = 0x7f0d00af;
 		public static final int showCustom = 0x7f0d000c;
 		public static final int showHome = 0x7f0d000d;
@@ -1238,7 +1239,7 @@ public final class R {
 		public static final int SherlockSearchView_android_maxWidth = 0;
 		public static final int SherlockSearchView_iconifiedByDefault = 3;
 		public static final int SherlockSearchView_queryHint = 4;
-		public static final int[] SherlockSpinner = { 0x010100af, 0x01010175, 0x01010176, 0x0101017b, 0x01010262, 0x010102ac, 0x010102ad, 0x0101043a };
+		public static final int[] SherlockSpinner = { 0x010100af, 0x01010175, 0x01010176, 0x0101017b, 0x01010262, 0x010102ac, 0x010102ad, 0x01010534 };
 		public static final int SherlockSpinner_android_dropDownHorizontalOffset = 5;
 		public static final int SherlockSpinner_android_dropDownSelector = 1;
 		public static final int SherlockSpinner_android_dropDownVerticalOffset = 6;

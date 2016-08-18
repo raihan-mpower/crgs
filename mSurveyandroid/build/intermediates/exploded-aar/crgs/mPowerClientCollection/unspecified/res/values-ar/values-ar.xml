@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/values-ar/strings.xml -->
-    <eat-comment/>
     <string name="accept_location">سجل الموقع</string>
     <string name="add_another">إضافة مجموعة</string>
     <string name="add_more">إضافة المزيد</string>

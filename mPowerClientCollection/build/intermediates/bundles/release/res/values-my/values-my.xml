@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/values-my/strings.xml -->
-    <eat-comment/>
     <string name="accept_location">တည္ေနရာကိုမွတ္ရန္</string>
     <string name="access_error">လုပ္ဆာင္မွုမွားယြင္းေနသည္ %s:</string>
     <string name="accuracy">တိက်မွန္ကန္မွု</string>

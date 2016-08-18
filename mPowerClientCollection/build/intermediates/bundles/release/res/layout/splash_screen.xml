@@ -3,7 +3,7 @@
     android:id="@+id/layout"
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
-    android:background="#8C0710"
+    android:background="@drawable/splash_screen"
     android:gravity="center_vertical|center_horizontal"
     android:orientation="vertical"
     android:padding="10dip" >
@@ -24,7 +24,8 @@
 		android:layout_width="wrap_content"
 		android:layout_height="wrap_content"
 		android:gravity="center_vertical|center_horizontal"
-		android:paddingBottom="5dip">
+		android:paddingBottom="5dip"
+		android:visibility="invisible">
 
 		<ImageView
 		    android:id="@+id/app_icon"
@@ -62,4 +63,4 @@
 
 		</LinearLayout>
 	</LinearLayout>
-</LinearLayout><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/layout/splash_screen.xml -->
+</LinearLayout>

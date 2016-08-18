@@ -1,0 +1,46 @@
+-keep class com.mpower.android.msurvey.application.MSurvey {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+-keep class com.mpower.android.msurvey.activity.MainActivity { <init>(); }
+-keep class com.mpower.android.msurvey.activity.SettingActivity { <init>(); }
+-keep class com.mpower.clientcollection.provider.FormsProvider { <init>(); }
+-keep class com.mpower.clientcollection.provider.InstanceProvider { <init>(); }
+-keep class com.mpower.clientcollection.activities.FormEntryActivity { <init>(); }
+-keep class com.mpower.clientcollection.activities.FormHierarchyActivity { <init>(); }
+-keep class com.mpower.clientcollection.activities.DrawActivity { <init>(); }
+-keep class com.mpower.clientcollection.activities.InstanceChooserList { <init>(); }
+-keep class com.mpower.clientcollection.activities.InstanceChooserTabs { <init>(); }
+-keep class com.mpower.clientcollection.activities.FormChooserList { <init>(); }
+-keep class com.mpower.clientcollection.activities.FormManagerList { <init>(); }
+-keep class com.mpower.clientcollection.activities.FormDownloadList { <init>(); }
+-keep class com.mpower.clientcollection.activities.DataManagerList { <init>(); }
+-keep class com.mpower.clientcollection.activities.FileManagerTabs { <init>(); }
+-keep class com.mpower.clientcollection.activities.InstanceUploaderList { <init>(); }
+-keep class com.mpower.clientcollection.activities.InstanceUploaderActivity { <init>(); }
+-keep class com.mpower.clientcollection.preferences.PreferencesActivity { <init>(); }
+-keep class com.mpower.clientcollection.preferences.AdminPreferencesActivity { <init>(); }
+-keep class com.mpower.clientcollection.activities.GeoPointActivity { <init>(); }
+-keep class com.mpower.clientcollection.activities.GeoPointMapActivity { <init>(); }
+-keep class com.mpower.clientcollection.activities.GeoPointMapActivitySdk7 { <init>(); }
+-keep class com.mpower.clientcollection.activities.SplashScreenActivity { <init>(); }
+-keep class com.mpower.clientcollection.activities.BearingActivity { <init>(); }
+-keep class com.mpower.clientcollection.activities.AndroidShortcuts { <init>(); }
+-keep class com.mpower.clientcollection.activities.MsgDetailActivity { <init>(); }
+-keep class com.mpower.clientcollection.receivers.NetworkReceiver { <init>(); }
+-keep class com.mpower.clientcollection.activities.DownloadAssetsFileActivity { <init>(); }
+-keep class com.mpower.clientcollection.activities.ClientCollectionLoginActivity { <init>(); }
+-keep class com.mpower.clientcollection.activities.ClientCollectionMainActivity { <init>(); }
+-keep class com.mpower.clientcollection.services.PushService { <init>(); }
+-keep class com.mpower.clientcollection.services.SyncNotificationWithServer { <init>(); }
+-keep class com.mpower.clientcollection.activities.WebServiceActivity { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor

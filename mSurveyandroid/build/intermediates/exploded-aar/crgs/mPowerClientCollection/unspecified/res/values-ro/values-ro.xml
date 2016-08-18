@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/values-ro/strings.xml -->
-    <eat-comment/>
     <string name="accept_location">Înregistreză locația</string>
     <string name="access_error">Error while accessing %s: </string>
     <string name="accuracy">Acuratețe</string>

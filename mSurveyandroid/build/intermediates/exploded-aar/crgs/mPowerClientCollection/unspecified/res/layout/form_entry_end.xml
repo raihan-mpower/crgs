@@ -98,4 +98,4 @@
             android:layout_weight="1.0" />
     </LinearLayout>
 
-</ScrollView><!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/layout/form_entry_end.xml -->
+</ScrollView>

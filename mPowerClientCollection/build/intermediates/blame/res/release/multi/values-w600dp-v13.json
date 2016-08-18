@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/build/intermediates/res/merged/release/values-w600dp-v13/values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 55,
+                    "endOffset": 106
+                },
+                "from": {
+                    "file": "/home/raihan/back up of previous laptop/xubuntu backup/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/build/intermediates/exploded-aar/crgs/actionbarsherlock_prev/unspecified/res/values-w600dp-v13/values-w600dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 55,
+                        "endOffset": 106
+                    }
+                }
+            }
+        ]
+    }
+]

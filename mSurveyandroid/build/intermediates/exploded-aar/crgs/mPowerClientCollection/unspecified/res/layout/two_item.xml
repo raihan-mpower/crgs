@@ -33,4 +33,3 @@
 			android:layout_alignParentLeft="true"
 			android:textAppearance="?android:attr/textAppearanceSmall"/>
 </RelativeLayout>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/layout/two_item.xml -->

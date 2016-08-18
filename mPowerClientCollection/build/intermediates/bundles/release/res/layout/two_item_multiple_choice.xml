@@ -50,4 +50,3 @@
 		android:layout_centerVertical="true"
 		android:layout_alignParentRight="true" />
 </com.mpower.clientcollection.views.TwoItemMultipleChoiceView>
-<!-- From: file:/home/raihan/OpenSrpWorkspace/crgs/mPowerClientCollection/src/main/res/layout/two_item_multiple_choice.xml -->
